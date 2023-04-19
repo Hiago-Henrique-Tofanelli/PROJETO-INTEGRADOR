@@ -5,7 +5,10 @@
 * IFSP - Câmpus Votuporanga
 ## Integrantes do grupo
 * Hiago Henrique Tofanelli
-* Leonardo Sadao dos Santos Fuzita
+* Husani Kamau dos Santos Claudino
+* Kainan 
+* Kevin
 * Vinícius Bertoldi Motta
 ## Levantamento de requisitos
+**Sistema de Vendas**
 
