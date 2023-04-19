@@ -13,4 +13,4 @@
 **Sistema de Vendas**
 * No sistema em questão o vendedor deve ser cadastrado e possuir produtos para vender
 * os produtos são vendidos para clientes e são geradas notas fiscais.
-![vendas](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuiM8MgJWwYL2qPzfZ9D57Jri8V5GmKLsMXw&usqp=CAU)
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuiM8MgJWwYL2qPzfZ9D57Jri8V5GmKLsMXw&usqp=CAU
