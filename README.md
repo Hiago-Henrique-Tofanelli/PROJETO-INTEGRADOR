@@ -11,6 +11,7 @@
 * Vinícius Bertoldi Motta(PO)
 ## Levantamento de requisitos
 **Sistema de Vendas**
+
  No sistema em questão o vendedor deve ser cadastrado e possuir produtos para vender
  os produtos são vendidos para clientes e são geradas notas fiscais.
  
