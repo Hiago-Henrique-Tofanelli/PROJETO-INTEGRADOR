@@ -5,23 +5,27 @@
 * IFSP - Câmpus Votuporanga
 ## Integrantes do grupo
 * Hiago Henrique Tofanelli(DBA)
-* Husani Kamau dos Santos Claudino(Desenvolvedor)
-* Kainan(Scrum Master)
-* Kevin(Desenvolvedor)
+* Husani Kamau dos Santos Fabre Claudino(Desenvolvedor)
+* Kainan Auguto Argnetão Bradachi(Scrum Master)
+* Kevin Fernando Moura Moises(Desenvolvedor)
 * Vinícius Bertoldi Motta(PO)
 
 **Sistema de Vendas**
 
 ## Documentação
-**Custos com o projeto**
- 
-Os custos do projeto são calculados por meio de conhecimento empregado, tempo para o desenolvimento do software em questão e as requisições do cliente.
+
 
 **Levantamento de requísitos**
 
 No sistema em questão o vendedor deve ser cadastrado e possuir produtos para vender
-os produtos são vendidos para clientes e são geradas notas fiscais.
+os produtos são vendidos para clientes e são geradas notas fiscais, este software deverá
+ser implantado na web para utilização de vendedores que pagarão mensalmente, semestralmente
+ou anualmente o software, tendo os descontos de 5% com o plano semestral e 10% com o anual.
+
+
+**Custos com o projeto**
  
+Os custos do projeto são calculados por meio de conhecimento empregado, tempo para o desenolvimento do software em questão e as requisições do cliente, porém por ser um sistema web não será uma cobrança única pelo projeto, mas sim pelo uso(durante o tempo que o cliente utilizar), assim o valor também não poderá ser alto para não gerar um software que não faça o usuário perder dinheiro, mas sim ganhar tempo.
 
 Requisitos funcionais
 Requisitos não funcionais
@@ -45,8 +49,10 @@ Implementação
 
 **Técnologias empregadas**
 
-As linguagens de programação utilizadas são PHP e JavaScript além de APIS necessárias.
+As linguagens de programação utilizadas são PHP e JavaScript além de APIS necessárias e a linguagem de marcação de hipertexto HTML 5, além do CSS 3 que incluirá o Framework Bootstrap 5.
+Também será utilizado SQL para a criação do banco de dados com o SGBD PostgreSQL e PLpgSQL
+para realizar algumas operações.
 
 **Referências**
 
-O projeto em questão tem como referência um sistema desktop utilizado por uma empresa.
+O projeto em questão tem como referência um sistema desktop utilizado por uma empresa conhecida do grupo.
