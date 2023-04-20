@@ -9,14 +9,13 @@
 * Kainan(Scrum Master)
 * Kevin(Desenvolvedor)
 * Vinícius Bertoldi Motta(PO)
-## Levantamento de requisitos
+
 **Sistema de Vendas**
 
+## Documentação
+**Custos com o projeto**
  
- ## Documentação
- **Custos com o projeto**
- 
- Os custos do projeto são calculados por meio de conhecimento empregado, tempo para o desenolvimento do software em questão e as requisições do cliente.
+Os custos do projeto são calculados por meio de conhecimento empregado, tempo para o desenolvimento do software em questão e as requisições do cliente.
 
 **Levantamento de requísitos**
 
