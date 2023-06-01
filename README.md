@@ -27,11 +27,11 @@ ou anualmente o software, tendo os descontos de 5% com o plano semestral e 10% c
  
 Os custos do projeto são calculados por meio de conhecimento empregado, tempo para o desenolvimento do software em questão e as requisições do cliente, porém por ser um sistema web não será uma cobrança única pelo projeto, mas sim pelo uso(durante o tempo que o cliente utilizar), assim o valor também não poderá ser alto para não gerar um software que não faça o usuário perder dinheiro, mas sim ganhar tempo.
 
-Requisitos funcionais
-Requisitos não funcionais
-Diagramas de caso de uso
-Diagramas de sequência
-Arquitetura do Software
+Requisitos funcionais.
+Requisitos não funcionais.
+Diagramas de caso de uso.
+Diagramas de sequência.
+Arquitetura do Software.
 
 Arquitetura geral
 Diagramas de arquitetura
