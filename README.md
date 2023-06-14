@@ -1,5 +1,5 @@
-# PROJETO-INTEGRADOR 
-**Disciplina ministrada pelo Professor**
+# PROJETO-INTEGRADOR - SISTEMA DE VENDA
+**Disciplina ministrada pela Professora Mestra**
 * Cristiane Paschoali Vidovix
 ## Instituição
 * IFSP - Câmpus Votuporanga
@@ -10,9 +10,7 @@
 * Kevin Fernando Moura Moises(Desenvolvedor)
 * Vinícius Bertoldi Motta(PO)
 
-<h1>Sistema de Vendas</h1>
-
-<h2>Documentação</h2>
+# Documentação
 
 
 **Levantamento de requísitos**
