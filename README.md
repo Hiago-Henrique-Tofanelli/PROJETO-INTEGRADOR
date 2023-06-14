@@ -10,7 +10,7 @@
 * Kevin Fernando Moura Moises(Desenvolvedor)
 * Vinícius Bertoldi Motta(PO)
 
-**Sistema de Vendas**
+<h1>Sistema de Vendas</h1>
 
 ## Documentação
 
