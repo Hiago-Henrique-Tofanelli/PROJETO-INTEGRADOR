@@ -12,7 +12,7 @@
 
 <h1>Sistema de Vendas</h1>
 
-## Documentação
+<h2>Documentação</h2>
 
 
 **Levantamento de requísitos**
