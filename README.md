@@ -1,5 +1,5 @@
 # PROJETO-INTEGRADOR - SISTEMA DE VENDA
-**Disciplina ministrada pela Professora Mestra**
+## Disciplina ministrada pela Professora Mestra
 * Cristiane Paschoali Vidovix
 ## Instituição
 * IFSP - Câmpus Votuporanga
