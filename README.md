@@ -18,9 +18,10 @@
 **Levantamento de requísitos**
 
 No sistema em questão o vendedor deve ser cadastrado e possuir produtos para vender
-os produtos são vendidos para clientes e são geradas notas fiscais, este software deverá
+os produtos são vendidos para clientes finais ou revendedores, este software deverá
 ser implantado na web para utilização de vendedores que pagarão mensalmente, semestralmente
-ou anualmente o software, tendo os descontos de 5% com o plano semestral e 10% com o anual.
+ou anualmente o software, tendo os descontos de 5% com o plano semestral e 10% com o anual
+na compra do software, porém revendedores e clientes finais tem preços diferentes.
 
 
 **Custos com o projeto**
@@ -49,10 +50,10 @@ Implementação
 
 **Técnologias empregadas**
 
-As linguagens de programação utilizadas são PHP e JavaScript além de APIS necessárias e a linguagem de marcação de hipertexto HTML 5, além do CSS 3 que incluirá o Framework Bootstrap 5.
+As linguagens de programação utilizadas são PHP e JavaScript além de APIS necessárias e a linguagem de marcação de hipertexto HTML 5, além do CSS 3 que incluirá o Framework Bootstrap 5 e o Framework Laravel.
 Também será utilizado SQL para a criação do banco de dados com o SGBD PostgreSQL e PLpgSQL
 para realizar algumas operações.
 
 **Referências**
 
-O projeto em questão tem como referência um sistema desktop utilizado por uma empresa conhecida do grupo.
+O projeto em questão tem como referência um sistema desktop utilizado por uma empresa conhecida do grupo, porém para facilitar o uso deste iremos realizá-lo em versão web.
