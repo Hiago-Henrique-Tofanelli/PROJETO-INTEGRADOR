@@ -1,4 +1,4 @@
-# PROJETO-INTEGRADOR - SISTEMA DE VENDA
+# PROJETO-INTEGRADOR - SISTEMA DE GERENCIAMENTO DE VENDAS
 ## Disciplina Ministrada Pela Professora Mestra
 * Cristiane Paschoali Vidovix
 ## Instituição
