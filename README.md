@@ -63,9 +63,10 @@ tipos de produtos, preços e necessidades dos vendedores.
 as vendas possam ser realizadas a qualquer momento.
 
 **Diagramas**
-<a href="/img/diagrama de classes">Diagrama de Classes</a>
-<a href=""></a>
-<a href=""></a>
+
+<img src="/img/diagrama de classes.png" alt="Diagrama de Classes">
+<img src="/img/diagrama de casos de uso.png" alt="Diagrama de Casos de Uso">
+<img src="/img/diagrama de banco de dados.png" alt="Diagrama de Banco de Dados">
 
 **Custos com o projeto**
  
