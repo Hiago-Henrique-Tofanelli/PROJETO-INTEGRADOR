@@ -62,6 +62,11 @@ tipos de produtos, preços e necessidades dos vendedores.
 6. Disponibilidade: O sistema deve estar disponível de forma contínua, garantindo que 
 as vendas possam ser realizadas a qualquer momento.
 
+**Diagramas**
+<a href="/img/diagrama de classes">Diagrama de Classes</a>
+<a href=""></a>
+<a href=""></a>
+
 **Custos com o projeto**
  
 Os custos do projeto são calculados por meio de conhecimento empregado, tempo para o desenolvimento do software em questão e as requisições do cliente, porém por ser um sistema web não será uma cobrança única pelo projeto, mas sim pelo uso(durante o tempo que o cliente utilizar), assim o valor também não poderá ser alto para não gerar um software que não faça o usuário perder dinheiro, mas sim ganhar tempo.
