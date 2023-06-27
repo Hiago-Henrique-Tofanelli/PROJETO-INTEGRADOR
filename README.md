@@ -64,27 +64,35 @@ as vendas possam ser realizadas a qualquer momento.
 
 **Diagramas**
 
+**Diagrama De Classes**
+
 <img src="/img/diagrama de classes.png" alt="Diagrama de Classes">
+
+**Diagrama De Casos De Uso**
+
 <img src="/img/diagrama de casos de uso.png" alt="Diagrama de Casos de Uso">
+
+**Diagrama De Banco De Dados**
+
 <img src="/img/diagrama de banco de dados.png" alt="Diagrama de Banco de Dados">
 
-**Custos com o projeto**
+**Custos Com O Projeto**
  
 Os custos do projeto são calculados por meio de conhecimento empregado, tempo para o desenolvimento do software em questão e as requisições do cliente, porém por ser um sistema web não será uma cobrança única pelo projeto, mas sim pelo uso(durante o tempo que o cliente utilizar), assim o valor também não poderá ser alto para não gerar um software que não faça o usuário perder dinheiro, mas sim ganhar tempo.
 
-Requisitos funcionais.
+Requisitos Funcionais.
 Requisitos não funcionais.
 Diagramas de caso de uso.
 Diagramas de sequência.
 Arquitetura do Software.
 
-Arquitetura geral
+Arquitetura Geral
 Diagramas de arquitetura
 Componentes e módulos do sistema
 Fluxo de dados
 Design de Software
 
-Design de interface do usuário
+Design De Interface Do Usuário
 Design de banco de dados
 Design de classes e objetos
 Design de algoritmos e lógica de negócio
@@ -92,7 +100,7 @@ Diagramas de classe
 Diagramas de sequência
 Implementação
 
-**Técnologias empregadas**
+**Técnologias Empregadas**
 
 As linguagens de programação utilizadas são PHP e JavaScript além de APIS necessárias e a linguagem de marcação de hipertexto HTML 5, além do CSS 3 que incluirá o Framework Bootstrap 5 e o Framework Laravel.
 Também será utilizado SQL para a criação do banco de dados com o SGBD PostgreSQL e PLpgSQL
